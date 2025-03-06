@@ -60,11 +60,6 @@ Feel free to **fork** this repository, create a new branch, and submit a **pull 
 
 ---
 
-## 📜 License
-This project is licensed under the **MIT License**.
-
----
-
 ## ⭐ Acknowledgments
 - **NLTK, Pymorphy & Scikit-learn** for NLP and ML tools  
 - **Matplotlib & Seaborn** for visualizing insights  
